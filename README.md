@@ -1,5 +1,19 @@
 # Comp-Vision-Projects
-This is a compilation of computer vision projects I did in college.
-Most of these are experimentations of using different filters to images such as gaussian filter, mean, filter, sobel filter, and laplacian filter. 
-I have one project about using a face detection algorithm such as haar cascade and MTCNN. 
-All of these projects includes experimenting and combination of different parameters to achieve a high accuracy and good output.
+A compilation of computer vision projects I developed during my college years, exploring various techniques and algorithms in computer vision.
+
+Overview
+This repository shows various experiments and projects to enhance image processing and facial detection. These projects demonstrate my ability to explore, implement, and fine-tune multiple computer vision techniques for accuracy and efficiency.
+
+Key Features:
+Image Filtering Techniques:
+Experimented with applying different filters such as:
+  Gaussian Filter
+  Mean Filter
+  Sobel Filter
+  Laplacian Filter
+
+Face Detection Algorithms:
+  Implemented and compared Haar Cascade and MTCNN (Multi-task Cascaded Convolutional Networks) for face detection.
+
+Parameter Tuning:
+  Fine-tuned combinations of parameters to achieve high accuracy and optimal results for different tasks.
